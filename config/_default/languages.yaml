@@ -12,9 +12,9 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: Chinese website title...
+  title: Junsen的Demo
   params:
-    description: Site description in Chinese...
+    description: Junsen的Demo
   menu:
     main:
       - name: '我的'
@@ -26,12 +26,12 @@ zh:
       - name: '项目'
         url: '#projects'
         weight: 30
-#      - name: Talks
-#        url: '#talks'
-#        weight: 40
-#      - name: Publications
-#        url: '#featured'
-#        weight: 50
+      - name: Talks
+        url: '#talks'
+        weight: 40
+      - name: Publications
+        url: '#featured'
+        weight: 50
       - name: Contact
         url: '#contact'
         weight: 60
