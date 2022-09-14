@@ -10,9 +10,9 @@ baseURL: 'https://example.com/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-Hans
+defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
