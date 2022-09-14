@@ -26,7 +26,7 @@ experience:
     company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: 光宝科技园
+    location: '光宝科技园'
     date_start: '2021-09-14'
     date_end: ''
     description: |2-

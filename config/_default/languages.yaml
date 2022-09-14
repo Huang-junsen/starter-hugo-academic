@@ -17,13 +17,13 @@ zh:
     description: Site description in Chinese...
   menu:
     main:
-      - name: 我的
+      - name: '我的'
         url: '#about'
         weight: 10
-      - name: 最近发帖
+      - name: '最近发帖'
         url: '#posts'
         weight: 20
-      - name: 项目
+      - name: '项目'
         url: '#projects'
         weight: 30
 #      - name: Talks
